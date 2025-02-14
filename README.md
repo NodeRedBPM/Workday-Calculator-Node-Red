@@ -34,7 +34,7 @@
 
 ## Использование
 ## Как использовать
-1. Скачайте файл [wdflows.json](https://github.com/NodeRedBPM/Workday-Calculator-Node-Red/blob/main/wdflow.json) из этого репозитория.
+1. Скачайте файл [wdflows.json](https://github.com/NodeRedBPM/Workday-Calculator-Node-Red/blob/main/wdflows.json) из этого репозитория.
 2. Импортируйте его в Node-RED.
 ![Описание фото](https://github.com/NodeRedBPM/MegaCRM-API-Node-Red/blob/main/importfile.png)
 3. Запустите поток.
